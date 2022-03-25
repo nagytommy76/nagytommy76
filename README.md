@@ -24,15 +24,18 @@ I'm a junior frontend developer. I'm looking for my first entry/junior level Rea
 
 ##### Backend technologies:
 
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+</p>
 
 ##### Other tools:
 
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/>
-
+</p>
 ---
 
 ![Tamás's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagytommy76&show_icons=true&theme=merko)
