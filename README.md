@@ -1,10 +1,11 @@
-## Hi there, my name is Tamás 👋
+# Hi there, my name is Tamás 👋
 
-I'm a junior frontend developer. I'm looking for my first entry/junior level React developer job.
+## I'm a Frontend Developer.
 
--  🔭 I’m currently working on this MERN stack webshop
-   [ComputerStore](https://github.com/nagytommy76/ComputerStoreMERN)
+-  🔭 I'm currently working on this exciting Facebook clone pet project: [FacebookClone](https://github.com/nagytommy76/FacebookClone)
+-  🔭 MERN stack website [ComputerStore](https://github.com/nagytommy76/ComputerStoreMERN)
 -  🌱 I also have a portfolio website: [NagyTamás](https://nagytamas93.hu/)
+-  🌱 I’m currently learning Next.js 13+
 
 ---
 
